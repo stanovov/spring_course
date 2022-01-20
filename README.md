@@ -4,10 +4,8 @@
 ![](https://img.shields.io/badge/Java-=_15-orange)
 ![](https://img.shields.io/badge/Spring-=_5-lightgreen)
 ![](https://img.shields.io/badge/Checkstyle-lightgrey)
-
-[comment]: <> (![]&#40;https://img.shields.io/badge/Hibernate-=_5-green&#41;)
-
-[comment]: <> (![]&#40;https://img.shields.io/badge/MySQL-=_8-red&#41;)
+![](https://img.shields.io/badge/Hibernate-=_5-green)
+![](https://img.shields.io/badge/MySQL-=_8-red)
 
 # spring_course
 
